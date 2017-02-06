@@ -25,19 +25,19 @@ choose  Enter your selection: [rspec]
 option  Continuous testing?
 choose  Enter your selection: [none]
 option  Front-end framework?
-choose  Enter your selection: [bootstrap4]
+choose  Enter your selection: [bootstrap3]
 option  Add support for sending email?
 choose  Enter your selection: [gmail]
 option  Authentication?
 choose  Enter your selection: [devise]
 option  Devise modules?
-choose  Enter your selection: [invitable]
+choose  Enter your selection: [default]
 option  OmniAuth provider?
 choose  Enter your selection: []
 option  Authorization?
 choose  Enter your selection: [roles]
 option  Use a form builder gem?
-choose  Enter your selection: []
+choose  Enter your selection: [none]
 option  Add pages?
 choose  Enter your selection: [about+users]
 option  Set a locale?
@@ -49,7 +49,7 @@ choose  Enter your selection: [heroku]
 option  Set a robots.txt file to ban spiders?
 choose  Enter your selection: [true]
 option  Create a GitHub repository? (y/n)
-choose  Enter your selection: []
+choose  Enter your selection: [true]
 option  Add gem and file for environment variables?
 choose  Enter your selection: []
 option  Improve error reporting with 'better_errors' during development?
